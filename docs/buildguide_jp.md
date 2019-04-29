@@ -11,7 +11,7 @@
 |5|タクトスイッチ(3x6mm)|50|[秋月電子通商](http://akizukidenshi.com/catalog/g/gP-08073/)より購入可能|
 |6|ダイオード(1N4148W)|50|[秋月電子通商](http://akizukidenshi.com/catalog/g/gI-07084/)より購入可能|
 |7|ピンソケット(14x1)|2|[秋月電子通商](http://akizukidenshi.com/catalog/g/gC-00661/)より購入可能|
-|8|ネジ(M3)|4||
+|8|ネジ(M3 15mm)|4||
 |9|袋ナット(M3)|4||
 
 ## キット以外に必要な部品
